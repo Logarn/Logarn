@@ -3,7 +3,7 @@
 - 🧰 I build across AI, web, desktop, automation, robotics, and ecommerce.
 - 💞️ I’m looking to collaborate on any computer vision projects, or just about anything that touches on deep learning or robotics
 
-## Stack — past and present
+## Stack
 
 ### Languages
 
