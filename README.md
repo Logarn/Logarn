@@ -1,15 +1,39 @@
 - 👋 Hi, I’m @Logarn,a real-life cyborg.
 - 👀 Currently doing a bunch of stuff in ML and DL.
-- 🧰 Stack: TypeScript, React, Vite, Tailwind CSS, Bun, Node.js, Electron, PostgreSQL, SQLite, Docker, Python, and Linux.
+- 🧰 I build across AI, web, desktop, automation, robotics, and ecommerce.
 - 💞️ I’m looking to collaborate on any computer vision projects, or just about anything that touches on deep learning or robotics
 
-## Stack
+## Stack — past and present
 
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,react,vite,tailwind,nodejs,bun,electron,postgres,sqlite,docker,git,github,githubactions,py,linux&perline=8" alt="TypeScript, React, Vite, Tailwind CSS, Node.js, Bun, Electron, PostgreSQL, SQLite, Docker, Git, GitHub, GitHub Actions, Python, and Linux" />
-  </a>
-</p>
+### Languages
+
+[![Languages](https://skillicons.dev/icons?i=ts,js,py,swift,c,cpp,bash,html,css&perline=9)](https://skillicons.dev)
+
+### Web and desktop
+
+[![Web and desktop](https://skillicons.dev/icons?i=react,vite,tailwind,astro,electron,apple&perline=6)](https://skillicons.dev)
+
+### Runtimes and backend
+
+[![Runtimes and backend](https://skillicons.dev/icons?i=bun,nodejs,npm,express,flask&perline=5)](https://skillicons.dev)
+
+### Data
+
+[![Data](https://skillicons.dev/icons?i=postgres,sqlite,mysql,mongodb,redis,elasticsearch&perline=6)](https://skillicons.dev)
+
+### AI and machine learning
+
+[![AI and machine learning](https://skillicons.dev/icons?i=pytorch,tensorflow,opencv&perline=3)](https://skillicons.dev)
+
+### Cloud, systems, and delivery
+
+[![Cloud, systems, and delivery](https://skillicons.dev/icons?i=docker,linux,git,github,githubactions,vercel,gcp,aws,azure,cloudflare,jenkins,firebase&perline=12)](https://skillicons.dev)
+
+### Platforms and integrations
+
+Capacitor · Drizzle · Qdrant · Auth0 · Railway · OpenAI · Anthropic · Gemini · Hugging Face · JAX/Flax · Playwright · Storybook · Shopify · Klaviyo · Slack · Stripe · ElevenLabs · Sentry · Twilio
+
+<sub>Grouped from the primary languages, frameworks, runtimes, data systems, infrastructure, and integrations used across my repositories. The final group is text-only because those technologies are not available in the Skill Icons catalog.</sub>
 
 <!---
 Logarn/Logarn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
