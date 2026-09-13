@@ -33,7 +33,6 @@
 
 Capacitor · Drizzle · Qdrant · Auth0 · Railway · OpenAI · Anthropic · Gemini · Hugging Face · JAX/Flax · Playwright · Storybook · Shopify · Klaviyo · Slack · Stripe · ElevenLabs · Sentry · Twilio
 
-<sub>Grouped from the primary languages, frameworks, runtimes, data systems, infrastructure, and integrations used across my repositories. The final group is text-only because those technologies are not available in the Skill Icons catalog.</sub>
 
 <!---
 Logarn/Logarn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
