@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @Logarn,a real-life cyborg.
 - 👀 Currently doing a bunch of stuff in ML and DL.
+- 🧰 Stack: TypeScript, React, Vite, Tailwind CSS, Bun, Node.js, Electron, PostgreSQL, SQLite, Docker, Python, and Linux.
 - 💞️ I’m looking to collaborate on any computer vision projects, or just about anything that touches on deep learning or robotics
 
 ## Stack
